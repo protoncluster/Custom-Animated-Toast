@@ -1,0 +1,3 @@
+rootProject.name='Custom-Animated-Toast'
+include ':app'
+include ':animatedtoastlib'
